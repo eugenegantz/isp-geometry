@@ -1,0 +1,11 @@
+{
+	"name": "isp-geometry",
+	"main": "index.js",
+	"description": "Утилиты для работы с геометрией в isp-fabric-extension",
+	"author": {
+		"name": "Eugene Gantz",
+		"email": "eugengantz@gmail.com"
+	},
+	"contributors": [],
+	"dependencies": {}
+}
